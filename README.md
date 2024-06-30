@@ -5,15 +5,9 @@ The CholecT50 and Cholec80 Task Phase Groupings Dataset (CCTPG) is designed to s
 ## Dataset Overview
 The dataset consists of:
 
- - Annotated video recordings from the CholecT50 and Cholec80 datasets: High-resolution video sequences capturing various stages of laparoscopic cholecystectomy procedures.
+ - Annotated small video clips extracted from the CholecT50 and Cholec80 datasets.
  - Detailed task phase groupings for each video: Labeled sequences indicating specific surgical phases and tasks.
  - Ground truth annotations for key surgical phases: Verified annotations for critical phases in the surgical process.
-## Purpose and Applications
-The dataset is primarily intended for use in:
-
- - Automated Surgical Phase Recognition: Enhancing the accuracy and efficiency of detecting and categorizing different phases of laparoscopic surgery.
- - Task Analysis: Providing a robust framework for the detailed analysis of surgical tasks, aiding in the improvement of surgical techniques and training.
- - Robotic Surgical Assistance Development: Supporting the development and validation of robotic systems designed to assist in laparoscopic surgeries, ensuring improved safety and efficacy.
 
 The dataset is primarily intended for use in developing systems for automated surgical phase recognition, task analysis, and the enhancement of robotic surgical assistance.
 
