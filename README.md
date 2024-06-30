@@ -23,7 +23,7 @@ Please cite this work as:
   url    = {https://github.com/Moshintha20/CholecT50_and_Cholec80_Task_Phase_Groupings_Dataset},
 }
 ```
-
+<!-- This is a comment and will not be displayed in the rendered README file 
 This work is a companion to [our publication](https://doi.org/10.XXXX/XXXXXXXXX):
 ```bibtex
 @Article{citeKey,
@@ -37,6 +37,7 @@ This work is a companion to [our publication](https://doi.org/10.XXXX/XXXXXXXXX)
   doi     = {10.XXXX/XXXXXXXXX},
 }
 ```
+-->
 
 (Optional) If you find this work useful, please message me and share how you used it. I'd love to hear about it. 
 You can find me here: [linkedin](https://www.linkedin.com/in/moshintha-hewavitharana/).
