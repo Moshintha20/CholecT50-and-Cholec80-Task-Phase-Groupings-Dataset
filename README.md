@@ -1,6 +1,6 @@
 # CholecT50 and Cholec80 Task Phase Groupings (CCTPG) Dataset
 
-The CholecT50 and Cholec80 Task Phase Groupings Dataset is designed to support research and development in laparoscopic surgical robot systems. This dataset comprises annotated video recordings of laparoscopic cholecystectomy procedures, providing valuable information on task phases and groupings.
+The CholecT50 and Cholec80 Task Phase Groupings Dataset is designed to support research and development in laparoscopic surgical robot assitant systems. This dataset comprises annotated video recordings of similar laparoscopic cholecystectomy tasks, providing valuable information.
 
 The dataset consists of:
 - Annotated video recordings from the CholecT50 and Cholec80 datasets
@@ -16,7 +16,7 @@ Please see [the user guide](./UserGuide.pdf).
 Please cite this work as:
 ```bibtex
 @Dataset{citeKey,
-  author = {Moshintha, Author Name},
+  author = {Moshintha Isuru Hewavitharana, Binh Tran, Brandon Johns, Elahe Abdi},
   title  = {CholecT50 and Cholec80 Task Phase Groupings Dataset},
   year   = {2024},
   doi    = {10.XXXX/XXXXXXX},
@@ -39,6 +39,6 @@ This work is a companion to [our publication](https://doi.org/10.XXXX/XXXXXXXXX)
 ```
 
 (Optional) If you find this work useful, please message me and share how you used it. I'd love to hear about it. 
-You can find me here: [twitter](https://twitter.com/YourTwitterHandle), [linkedin](https://www.linkedin.com/in/YourLinkedInProfile).
+You can find me here: [linkedin](https://www.linkedin.com/in/moshintha-hewavitharana/).
 
 This description follows the structure of the example you provided and can be adjusted based on any additional details or preferences you may have. If you have specific sections or content from your research paper you'd like included, let me know!
