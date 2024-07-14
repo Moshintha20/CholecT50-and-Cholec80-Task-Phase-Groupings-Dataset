@@ -17,7 +17,7 @@ Please see [the user guide](./UserGuide.pdf).
 Please cite this work as:
 ```bibtex
 @Dataset{citeKey,
-  author = {Moshintha Isuru Hewavitharana, Binh Tran, Brandon Johns and Elahe Abdi},
+  author = {Moshintha Isuru Hewavitharana and Binh Tran and Brandon Johns and Elahe Abdi},
   title  = {CholecT50 and Cholec80 Task Phase Groupings Dataset},
   year   = {2024},
   doi    = {10.XXXX/XXXXXXX},
