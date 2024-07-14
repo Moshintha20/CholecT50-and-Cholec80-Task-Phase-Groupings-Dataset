@@ -21,7 +21,7 @@ Please cite this work as:
   title  = {CholecT50 and Cholec80 Task Phase Groupings Dataset},
   year   = {2024},
   doi    = {10.XXXX/XXXXXXX},
-  url    = {https://github.com/Moshintha20/CholecT50_and_Cholec80_Task_Phase_Groupings_Dataset},
+  url    = {https://github.com/Moshintha20/CholecT50-and-Cholec80-Task-Phase-Groupings-Dataset},
 }
 ```
 <!-- This is a comment and will not be displayed in the rendered README file 
