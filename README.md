@@ -10,8 +10,12 @@ The dataset consists of:
 
 The dataset is primarily intended for use in developing systems for automated surgical phase recognition, task analysis, and the enhancement of robotic surgical assistance.
 
-## Documentation
-Please see [the user guide](./UserGuide.pdf).
+## Dataset Description
+The folder .975 contains .... and the other flder ...
+
+Each subfolder is named ...
+
+Each video is named with the convention `VID<video number>_<frame number>_and_VID<video number>_<frame number>_a.mp4` where `video number` is
 
 ## Citation
 Please cite this work as:
@@ -44,3 +48,8 @@ This work is a companion to [our publication](https://doi.org/10.XXXX/XXXXXXXXX)
 You can find me here: [linkedin](https://www.linkedin.com/in/moshintha-hewavitharana/).
 
 This description follows the structure of the example you provided and can be adjusted based on any additional details or preferences you may have. If you have specific sections or content from your research paper you'd like included, let me know!
+
+## License
+This work is derivative of the [CholecT50 and Cholec80 Datasets](http://camma.u-strasbg.fr/datasets/)
+
+The dataset and documentation are distributed under the [Creative Commons CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
