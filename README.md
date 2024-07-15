@@ -11,11 +11,11 @@ The dataset consists of:
 The dataset is primarily intended for use in developing systems for automated surgical phase recognition, task analysis, and the enhancement of robotic surgical assistance.
 
 ## Dataset Description
-The folder .975 contains .... and the other flder ...
+This dataset is structured around defined similarity thresholds, organized into triplets. It includes video clips named in accordance with the conventions used in the CholecT50 and Cholec80 datasets, which cover similar surgical tasks. Folders with similarity scores above 0.975 contain 11 subfolders labeled by triplets, while those above 0.985 contain 4 subfolders. Each subfolder contains video clips following the naming convention:
 
-Each subfolder is named ...
+VID<video number_1>_<frame number>_and_VID<video number_2>_<frame number>_a.mp4
 
-Each video is named with the convention `VID<video number>_<frame number>_and_VID<video number>_<frame number>_a.mp4` where `video number` is
+
 
 ## Citation
 Please cite this work as:
