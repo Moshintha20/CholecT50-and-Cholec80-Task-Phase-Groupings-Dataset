@@ -13,7 +13,8 @@ The dataset is primarily intended for use in developing systems for automated su
 ## Dataset Description
 This dataset is structured around defined similarity thresholds, organized into triplets. It includes video clips named in accordance with the conventions used in the CholecT50 and Cholec80 datasets, which cover similar surgical tasks. Folders with similarity scores above 0.975 contain 11 subfolders labeled by triplets, while those above 0.985 contain 4 subfolders. Each subfolder contains video clips following the naming convention:
 
-VID(video number 1)_(frame number)_and_VID(video number 2)_(frame number)_a.mp4
+VID\(video number 1\)_\(frame number\)\_and_VID\(video number 2\)\_\(frame number\)_a.mp4
+
 
 In this naming convention:
 
@@ -22,7 +23,7 @@ In this naming convention:
  - video number 2 represents the second video of the similarity pair.
  - frame number represents the frame number of the second video.
    
-The a or b at the end of the filename indicates which frame the video clip is for:
+The suffix a or b at the end of the filename indicates which frame the video clip is for:
 
  - a indicates the video clip corresponds to the frame from video number 1.
  - b indicates the video clip corresponds to the frame from video number 2.
