@@ -27,7 +27,7 @@ The a or b at the end of the filename indicates which frame the video clip is fo
  - a indicates the video clip corresponds to the frame from video number 1.
  - b indicates the video clip corresponds to the frame from video number 2.
    
-This structured approach ensures clear identification and organization of video clips based on their similarity pairs and frames. To help users understand which group number represents which triplet label, a triplet_labels.txt file is provided in the dataset folder. 
+This structured approach ensures clear identification and organization of video clips based on their similarity pairs and frames. To help users understand which group number represents which triplet label, a 'triplet_labels.txt' file is provided in the dataset folder. 
 
 
 
