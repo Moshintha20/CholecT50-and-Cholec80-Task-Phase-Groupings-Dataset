@@ -15,6 +15,20 @@ This dataset is structured around defined similarity thresholds, organized into 
 
 VID(video number 1)_(frame number)_and_VID(video number 2)_(frame number)_a.mp4
 
+In this naming convention:
+
+ - video number 1 represents the first video of the similarity pair.
+ - frame number represents the frame number of the first video.
+ - video number 2 represents the second video of the similarity pair.
+ - frame number represents the frame number of the second video.
+   
+The a or b at the end of the filename indicates which frame the video clip is for:
+
+ - a indicates the video clip corresponds to the frame from video number 1.
+ - b indicates the video clip corresponds to the frame from video number 2.
+   
+This structured approach ensures clear identification and organization of video clips based on their similarity pairs and frames
+
 
 
 
