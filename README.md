@@ -32,7 +32,7 @@ This structured approach ensures clear identification and organization of video 
 
 
 
-
+<!--
 ## Citation
 Please cite this work as:
 ```bibtex
@@ -44,7 +44,7 @@ Please cite this work as:
   url    = {https://github.com/Moshintha20/CholecT50-and-Cholec80-Task-Phase-Groupings-Dataset},
 }
 ```
-<!-- This is a comment and will not be displayed in the rendered README file 
+ This is a comment and will not be displayed in the rendered README file 
 This work is a companion to [our publication](https://doi.org/10.XXXX/XXXXXXXXX):
 ```bibtex
 @Article{citeKey,
@@ -59,7 +59,7 @@ This work is a companion to [our publication](https://doi.org/10.XXXX/XXXXXXXXX)
 }
 ```
 -->
-
+##
 (Optional) If you find this work useful, please message me and share how you used it. I'd love to hear about it. 
 You can find me here: [linkedin](https://www.linkedin.com/in/moshintha-hewavitharana/).
 
